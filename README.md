@@ -1,6 +1,6 @@
-## Olá, sou o Dennys Müller
+## Sou Dennys Müller
 
-Analista de QA com mais de 7 anos em teste de software, atuando na qualidade de uma plataforma ETRM do mercado livre de energia.
+Analista de QA com mais de 7 anos em teste de software atuando na qualidade.
 
 **Foco:** testes funcionais e de API (REST/SOAP), BDD/Gherkin, Shift-Left e testes com agentes de IA (Claude Code, GitHub Copilot, MCP, Playwright).
 
